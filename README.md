@@ -47,7 +47,7 @@ A aplicação foi construída com Python, Pandas, Matplotlib e Streamlit, sendo 
 ### 🌐 Links Úteis
 
 🔗 Aplicação em Streamlit
-👉 https://SEU_APP_STREAMLIT
+👉 [STREAMLIT](https://edaautomatica.streamlit.app/)
 
 🔗 Comunidade de Dados
 👉 [COMUNIDADE](https://carreiraemdados.io/)
